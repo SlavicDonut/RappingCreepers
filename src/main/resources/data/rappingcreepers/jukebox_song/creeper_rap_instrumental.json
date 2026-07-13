@@ -1,0 +1,8 @@
+{
+  "sound_event": "rappingcreepers:creeper_rap_instrumental",
+  "description": {
+    "translate": "item.rappingcreepers.music_disc_creeper_rap_instrumental.desc"
+  },
+  "length_in_seconds": 120,
+  "comparator_output": 15
+}

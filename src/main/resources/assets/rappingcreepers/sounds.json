@@ -1,0 +1,21 @@
+{
+  "creeper_rap": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "rappingcreepers:creeper_rap",
+        "stream": true
+      }
+    ]
+  },
+  "creeper_rap_instrumental": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "rappingcreepers:creeper_rap_instrumental",
+        "stream": true
+      }
+    ]
+  }
+}
+

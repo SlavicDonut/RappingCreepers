@@ -1,0 +1,16 @@
+{
+  "item.rappingcreepers.music_disc_creeper_rap": "Music Disc",
+  "item.rappingcreepers.music_disc_creeper_rap.desc": "Dan Bull - Creeper Rap",
+
+  "item.rappingcreepers.music_disc_creeper_rap_instrumental": "Music Disc",
+  "item.rappingcreepers.music_disc_creeper_rap_instrumental.desc": "Dan Bull - Creeper Rap Instrumental",
+
+  "item.rappingcreepers.rapping_creeper_spawn_egg": "Rapping Creeper Spawn Egg",
+
+  "entity.rappingcreepers.rapping_creeper": "Rapping Creeper",
+
+  "rappingcreepers.configuration.title": "Rapping Creepers Configs",
+  "rappingcreepers.configuration.section.rappingcreepers.common.toml": "Rapping Creepers Configs",
+  "rappingcreepers.configuration.section.rappingcreepers.common.toml.title": "Rapping Creepers Configs"
+
+}
